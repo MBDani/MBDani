@@ -18,8 +18,8 @@
 </br>
 
 <table align="right">
- <tr><td><a href="https://github.com/MBDani/MBDani/blob/main/README.md"><img src="./assets/uk-flag.png" alt="UK flag" width="17px"> Inglés</a></td></tr>
- <tr><td><a href="https://github.com/MBDani/MBDani/blob/main/README-es.md"><img src="./assets/es-flag.png" alt="Spanish flag" width="17px">  Español</a></td></tr>
+ <tr><td><a href="https://github.com/MBDani/MBDani/blob/master/README.md"><img src="./assets/uk-flag.png" alt="UK flag" width="17px"> Inglés</a></td></tr>
+ <tr><td><a href="https://github.com/MBDani/MBDani/blob/master/README-es.md"><img src="./assets/es-flag.png" alt="Spanish flag" width="17px">  Español</a></td></tr>
 </table>
 
 ## ⚙️ Mis herramientas y tecnologías favoritas

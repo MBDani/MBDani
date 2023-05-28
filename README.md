@@ -27,11 +27,11 @@
 
 <table align="right">
   <tr>
-    <td><a href="https://github.com/MBDani/MBDani/blob/main/README.md"><img src="./assets/uk-flag.png" alt="UK flag"
+    <td><a href="https://github.com/MBDani/MBDani/blob/master/README.md"><img src="./assets/uk-flag.png" alt="UK flag"
           width="17px"> English</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MBDani/MBDani/blob/main/README-es.md"><img src="./assets/es-flag.png"
+    <td><a href="https://github.com/MBDani/MBDani/blob/master/README-es.md"><img src="./assets/es-flag.png"
           alt="Spanish flag" width="17px"> Spanish</a></td>
   </tr>
 </table>
