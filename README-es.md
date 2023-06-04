@@ -103,12 +103,13 @@
 </table>
 
 <h2>:books: Mi portfolio personal</h2>
-<a href="https://github.com/Carol42/portfolio">
-    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+<a href="https://mbdani.github.io./">
+    <img alt="link al repositorio de mi portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=MBDani&repo=MBDani.github.io&theme=dark&hide_border=true">
 </a>
 </br>
-<a href="https://portfolio-carol42.vercel.app/">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+<a href="https://mbdani.github.io./">
+  <img alt="link a mi portfolio"
+    src="https://img.shields.io/static/v1?label&message=open+portfolio&color=61dafb&style=for-the-badge" />
 </a>
 </br></br>
 
